@@ -1,0 +1,344 @@
+html {
+  font-family: 'Lexend', sans-serif;
+
+}
+
+h1 {
+  font-family: 'Lexend', sans-serif;
+  font-size: 80px;
+}
+
+nav ul li {
+  padding: 25px;
+  margin-left:0%;
+  margin-right: 0%;
+  text-align: center;
+  display: inline-block;
+  background-color: black;
+  height: 30px;
+  color:whitesmoke;
+ 
+}
+
+header {
+    color: whitesmoke;
+
+}
+
+.whitelink {
+  color: whitesmoke;
+  text-align: center;
+  margin-left: 0px;
+  margin-right:0px;
+  padding: 20px 60px;
+  background-color: black;
+}
+
+.whitelink {
+   
+    display: inline;
+   
+}
+
+#logoimg {
+  margin-top:45px;
+  margin-bottom: 45px;
+    height: 240px;
+    width: auto;
+}
+
+
+
+
+#foto1 {
+  height: 400px;
+  width: auto;
+  float: left;
+  margin-right: 90px;
+  margin-left: 90px;
+  margin-top: 45px;
+  margin-bottom: 45px;
+
+}
+
+#testo1{
+  padding-right: 100px;
+  padding-left: 200px;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  background-color: #F9EAA7;
+}
+
+#esterno {
+  height: 700px;
+  width: auto;
+  margin: 5%;
+}
+
+
+
+body {
+    text-align: center;
+    background-color:whitesmoke;
+    color: black;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#djimg {
+  height: 800px;
+  width: auto;
+  margin: 24px 16px;
+  
+}
+
+
+#punto2 {
+  margin-top: 25px;
+  margin-bottom: 45px;
+  background-color:#F9EAA7;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-top: 50px;
+  padding-bottom: 60px;
+
+} 
+
+#tris {
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 35px;
+  display: inline-block;
+  
+}
+
+#penultima {
+  margin-top: 25px;
+  margin-bottom: 45px;
+  background-color: #F9EAA7;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-top: 50px;
+  padding-bottom: 60px; 
+}
+
+
+#ultima {
+  margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: #F9EAA7;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+
+#steve {
+  display:inline;
+}
+
+   
+header {
+    color: black; 
+    text-align: center;
+ 
+} 
+
+h2 {
+  font-weight: bold;
+  background-color: #F9EAA7;
+  margin-left:0px;
+  margin-right: 0px;
+  <div id="storia" style="
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+
+#storia {
+ 
+  margin: 48px;
+}
+
+.blocco-storia1 {
+
+  margin: 30px 150px;
+}
+
+#camerieri {
+  height: 650px;
+  width: auto ;
+}
+
+#luna {
+  height: 800px;
+  width: auto;
+}
+
+#donne {
+  height: 300px;
+  width: auto;
+}
+
+
+#links {
+  margin-top: 100px;
+  margin-bottom:100px;
+}
+
+.curiosity {
+  margin-top:400px;
+}
+
+h3 {
+  background-color: #F9EAA7;
+  margin-top:36px;
+  margin-bottom:36px;
+}
+
+
+
+
+.button {
+  background-color: black;
+  color: whitesmoke;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 48px;
+ 
+}
+
+
+.finale_l {
+  padding-top: 50px;
+  padding-bottom: 50px;
+background-color: #F9EAA7;
+color:black;
+}
+
+
+
+
+
+a:link {
+    text-decoration: none;
+   
+  }
+  
+a:visited {
+    text-decoration: none;
+  }
+  
+a:hover {
+    text-decoration: underline;
+    color:#F9EAA7
+  }
+  
+a:active {
+    text-decoration: underline;
+    color:#F9EAA7
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 40px;
+  margin-bottom:40px;
+}
+
+.box {
+  width: 33.33%;
+  padding: 10px;
+  box-sizing: border-box;
+  text-align: center;
+  background-color: #F9EAA7;
+}
+
+h3 {
+  margin-top: 10px;
+}
+
+
+#chic {
+  text-align: center;
+  margin: 20px 50px;
+  border-left: 40px;
+}
+
+#musica_intro {
+  margin: 20px 50px;
+}
+
+
+
+.home_w {
+  width: 500px;
+  height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.active {
+  color:#F9EAA7;
+  background-color: black;
+}
+
+
+
+  footer {
+    background-color: black;
+    color: whitesmoke;
+    padding: 20px;
+    text-align: center;
+    
+  }
+
+  .footer-content nav ul {
+    
+    padding: 0;
+    margin: 0;
+  }
+
+  .footer-content nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+
+  .footer-content nav ul li a,  {
+    color: whitesmoke;
+   
+  }
+
+
+
+
+
+
+
+
+
+
